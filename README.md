@@ -8,11 +8,15 @@ Alright, I think you probably guessed it. This is a quick browser extension (for
 Use at your own risk. By accessing this repository and its contents, you agree to take full responsibility of your actions. And if you intend to use it for the purposes of avoiding YouTube ads, then you further certify that you are the sole culprit behind all this. 💀
 
 ## 📁 Installation Step 1 (Source Files)
-- Create the 3 files mentioned in this repository (exact names) and insert their respective code.
-  or
-- Download this entire repository via that green button that says **<> Code** and then **Download ZIP**. Extract and continue.
-  or
-- Download this ready-to-use [ZIP file](https://github.com/diztil/huecube/releases/download/v1/HueCube.zip). Extract and continue.
+There are 3 possible pathways you can choose.
+#### 1️⃣ Pathway 1: Self-plagiarized
+Create the 3 files mentioned in this repository (exact names) and insert their respective code.
+
+#### 2️⃣ Pathway 2: Self-hosted
+Download this entire repository via that green button that says **<> Code** and then **Download ZIP**. Extract and continue.
+
+#### 3️⃣ Pathway 3: Preset
+Download this ready-to-use [ZIP file](https://github.com/diztil/huecube/releases/download/v1/HueCube.zip). Extract and continue.
 
 ## 📁 Installation Step 2 (Adding To Chrome)
 1. `chrome://extensions/` Copy paste this into a new tab.
