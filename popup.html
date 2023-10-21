@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HueCube Tab Opener</title>
+</head>
+<body>
+  <button class="btn" id="openYouTube">Open YouTube Tab</button>
+  <script src="popup.js"></script>
+<style>
+.btn {
+  border-radius: 12px;
+  padding: 0.5rem;
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  width: 100%;
+  background: rgba(255, 16, 45, 0.19);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(7.5px);
+  -webkit-backdrop-filter: blur(7.5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  transition: 0.5s;
+  display: flex;
+}
+
+.btn:hover {
+  scale: 1.1;
+  transition: 0.2s;
+}
+
+.btn:active {
+  scale: 0.9;
+  transition: 0.1s;
+  opacity: 0.5;
+}
+</style>
+</body>
+</html>
